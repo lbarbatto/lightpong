@@ -1,5 +1,4 @@
-# Light
-Pong
+# Light Pong
 
 ### Minigame casual criado com Constructor2.
 ## Versão para PC
